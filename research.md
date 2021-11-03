@@ -1,4 +1,8 @@
-### Our main research goals:
+---
+layout: page
+title: Research
+subtitle: Questions waiting to be solved
+---
 
 ### Key questions that we would like to address:
 - Q1:XXX 
