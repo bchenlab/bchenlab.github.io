@@ -9,4 +9,4 @@ Currently, we have two positions available.
 - [Research officer](https://careers.a-star.edu.sg/JobDetails.aspx?ID=un1lK95G7qvLcdGPZuynCQ%3d%3d)
 - [Postdoctoral fellow](https://careers.a-star.edu.sg/JobDetails.aspx?ID=avzgH9GDNahOTZqd93tl%2fQ%3d%3d)
 
-For more information about the group, please contact [Benson Chen](b5chen@health.ucsd.edu)
+For more information about the group, please contact [Benson Chen](mailto:b5chen@health.ucsd.edu)
