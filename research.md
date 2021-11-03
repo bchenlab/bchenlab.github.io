@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Questions waiting to be solved
+subtitle: 
 ---
 
 ### Key questions that we would like to address:
