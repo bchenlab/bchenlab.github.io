@@ -1,6 +1,3 @@
-The detail of our research. We have the following quesitons:
-
-- 1. XXXX
-- 2. XXXX
-
-What else would you like?
+What is the key questions that we would like to address in the lab? 
+Why are they important?
+Include the simplified cartoon to illustrate the hypothesis and the idea behind
