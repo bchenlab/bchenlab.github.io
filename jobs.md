@@ -11,4 +11,4 @@ Currently, we have two positions available.
 
 For more information about the group, please contact [Benson Chen](mailto:b5chen@health.ucsd.edu)
 
-![Image of bay](/assets/img/marina_bay.png)
+![Image of bay](/assets/img/marina_bay2.png)
