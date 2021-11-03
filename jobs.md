@@ -2,7 +2,7 @@
 layout: page
 title: Join Us
 subtitle: Interested??
-thumbnail-img: /assets/img/marina_bay.png
+cover-img: /assets/img/marina_bay.png
 ---
 
 This research group will start in July 2022 at [Genome Institute of Singapore](https://www.a-star.edu.sg/gis). We are actively looking for graduate students or post docs to join the lab.
