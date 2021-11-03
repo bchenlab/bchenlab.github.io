@@ -9,15 +9,15 @@
 title: The Laboratory of Functional EpiMetagenomic
 
 # Your name to show in the footer
-author: Lab maintance
+author: Lab maintance 2021
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Team: "aboutme"
-  Research: "research"
-  Publication: "publications"
-  Position: "jobs"
+  RESEARCH: "research"
+  TEAM: "aboutme"
+  PUBLICATIONS: "publications"
+  JOIN US!: "jobs"
 
 
 # --- Logo --- #
