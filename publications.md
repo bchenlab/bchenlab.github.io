@@ -2,6 +2,7 @@
 layout: page
 title: Pulications
 subtitle: SELECTED PUBLICATIONS (2020-current)
+cover-img: /assets/img/Tree3.png
 ---
 
 For a full list see:[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Poshen+B%22%5BAuthor%5D) or [Google scholar](https://scholar.google.com/citations?hl=en&tzom=420&user=SI56lVsAAAAJ)
