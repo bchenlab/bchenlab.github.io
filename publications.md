@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pulications
+title: Publications
 subtitle: SELECTED PUBLICATIONS (2020-current)
 cover-img: /assets/img/Books.png
 ---
