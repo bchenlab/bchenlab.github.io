@@ -5,4 +5,9 @@ subtitle:
 cover-img: /assets/img/Team.png
 ---
 
-Under construction
+![Image of PI](/assets/img/Benson.png){: style="float: left"}
+BENSON CHEN, Ph.D. (he/him)
+
+Principle Investigator
+Senior Research Scientisit
+
