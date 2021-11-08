@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Pulications
 subtitle: SELECTED PUBLICATIONS (2020-current)
 cover-img: /assets/img/Tree3.png
