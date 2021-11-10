@@ -15,7 +15,7 @@ Chen PB, Fiaux PC, Li B, Zhang K, Kubo N, Jiang S, Hu R, Wu S, Wang M, Wang W, M
 bioRxiv, 2021 February 05.
  
 [CRISPR-SE: A brute force search engine for CRISPR design.](https://academic.oup.com/nargab/article/3/1/lqab013/6148838)
-Li B*, Chen PB*, Diao Y.
+Li B, Chen PB, Diao Y.
 NAR Genom Bioinform. 2021 Feb 23:3(1):lqab013.
 
 ### 2020
