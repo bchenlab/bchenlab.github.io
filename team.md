@@ -12,5 +12,10 @@ cover-img: /assets/img/Team.png
  Senior Research Scientist
  
  
- <img src="https://your-image-url.type" width="100" height="100">
+<img src="https://github.com/bchenlab/bchenlab.github.io/blob/master/assets/img/Benson3.png" width="350" height="300"> {: style="float: left"}
+BENSON CHEN, Ph.D. (he/him)
+Principal Investigator
+Senior Research Scientist
 
+Benson performed his postdoctoral work with M.Reza Ghadiri at the Scripps Research Institute for microbiome remodeling project. Later, he joined the ENCODE (Encyclopedia of DNA elements) consortium to carry out functional characterization study for cis-regulatory elements in Bing Ren's laboratory at University of California San Diego. He will join the faculty at Genome Institute of Singapore in July 2022.
+ 
