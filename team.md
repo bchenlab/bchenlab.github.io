@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/Team.png
 ---
 
-![Image of PI](/assets/img/Benson3.png){: style="float: left" height="300px" width="350px"}
+![Image of PI](/assets/img/Benson3.png){: style="float: left" height="400px" width="450px"}
 BENSON CHEN, Ph.D. (he/him)
 
 Principal Investigator
