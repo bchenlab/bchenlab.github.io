@@ -10,6 +10,6 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;Principal Investigator<br>
 &nbsp;&nbsp;&nbsp;Senior Research Scientist<br>
 
-&nbsp;&nbsp;&nbsp;Benson performed his postdoctoral work with M.Reza Ghadiri at the Scripps Research Institute for microbiome remodeling project. Later, he joined the ENCODE (Encyclopedia of DNA elements) consortium to carry out functional characterization study for cis-regulatory elements in Bing Ren's laboratory at University of California San Diego. He will join the faculty at Genome Institute of Singapore in July 2022.<br>
+&nbsp;&nbsp;&nbsp;Benson performed his postdoctoral work with M.Reza Ghadiri at the Scripps Research Institute and Bing Ren at University of California San Diego. He will join the faculty at Genome Institute of Singapore in July 2022.<br>
 <br><br><br>
 
