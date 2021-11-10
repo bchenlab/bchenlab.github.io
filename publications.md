@@ -29,6 +29,11 @@ Nat Biotechnol. 2020 Nov; 38(11): 1288-1297.
 Fiaux PC, Chen HV, Chen PB, Chen AR, McVicker G.
 PLOS Comput Biol. 2020 Sep 16; 16 (9):e1008194.
 
+### Patent
+
+[Chemotherapeutic remodeling of gut microbiome](https://patents.google.com/patent/WO2020069130A2)
+Ghadiri MR, Leman LJ, Chen PB, Zhao Y, Torkamani A, Black AS (2018)
+
 
 
 
