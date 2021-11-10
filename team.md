@@ -12,7 +12,7 @@ cover-img: /assets/img/Team.png
  Senior Research Scientist
  
  
-<img src="https://github.com/bchenlab/bchenlab.github.io/blob/master/assets/img/Benson3.png" width="350" height="300"> {: style="float: left"}
+<img src="https://github.com/bchenlab/bchenlab.github.io/blob/master/assets/img/Benson3.png" width="350" height="300">
 BENSON CHEN, Ph.D. (he/him)
 Principal Investigator
 Senior Research Scientist
