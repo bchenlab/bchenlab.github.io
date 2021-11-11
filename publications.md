@@ -31,8 +31,8 @@ PLOS Comput Biol. 2020 Sep 16; 16 (9):e1008194.
 
 ### Patent
 
-[Chemotherapeutic remodeling of gut microbiome](https://patents.google.com/patent/WO2020069130A2)
-Ghadiri MR, Leman LJ, Chen PB, Zhao Y, Torkamani A, Black AS (2018)
+[Chemotherapeutic remodeling of gut microbiome (2018).](https://patents.google.com/patent/WO2020069130A2)
+Ghadiri MR, Leman LJ, Chen PB, Zhao Y, Torkamani A, Black AS
 
 
 
