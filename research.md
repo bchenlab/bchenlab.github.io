@@ -16,14 +16,14 @@ While every cell within the body shares identical genetic information, the epige
 
 Genome-wide sequencing studies have revealed that the composition of gut microbiota is altered in atherosclerosis and many other human diseases, indicating that the gut microbiota is a key extrinsic factor in regulating gene expression in the host. Due to the inability to specifically modulate different bacterial species within gut microbiota, the functions of different groups of species within gut microbiota and how they interact with the host is still not clear. To better understand and characterize the roles of different species in promoting atherosclerosis, we develop the in vitro platform to identify chemical modulators for gut microbiome and the in vivo atherosclerosis model to evaluate the effects of gut microbiome in the host. We show that selective remodeling in gut microbiome inhibits the development of atherosclerosis and identify several molecular pathways that are mediated by microbiome in the host. We are actively developing new tools for improving microbiome remodeling, as well as rewiring gene regulatory programe within gut microbiota. 
 
-<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="170"/>
+![microbiome remodeling](/assets/img/NBT_2020.png)
 
 
 <h3> Characterizatin of functional cis-regulatory elements </h3>
 
 Enhancers have been recognized as integrated transcription factor (TF) binding hubs to fine tune gene expression under different stimuli and between different cell types. The chromatin state and spatial interactions between regulatory elements and target genes are crucial for cell-type-specific gene expression during normal development and disease progression. Recently, we develop and utilize highly multiplexed CRISPR-based perturbation and sequencing to identify hundreds of pro-growth enhancers across major cancer types. We seek to expand the usage of this unbaised functional perturbation assay to uncover functional enhancers crucial for different physiological phenotypes.
 
-<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="170"/>
+![functional enhancers](/assets/img/Biorxiv_2021.png)
 
 
 
