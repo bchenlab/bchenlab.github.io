@@ -21,7 +21,7 @@ Genome-wide sequencing studies have revealed that the composition of gut microbi
 
 <h3> Characterizatin of functional cis-regulatory elements </h3>
 
-<img alt="Enhancers" align="right" src="/assets/img/Biorxiv_2021.png" width="340" height="200"/>
+<img alt="Enhancers" align="left" src="/assets/img/Biorxiv_2021.png" width="350" height="220"/>
 
 Enhancers have been recognized as integrated transcription factor (TF) binding hubs to fine tune gene expression under different stimuli and between different cell types. The chromatin state and spatial interactions between regulatory elements and target genes are crucial for cell-type-specific gene expression during normal development and disease progression. Recently, we develop and utilize highly multiplexed CRISPR-based perturbation and sequencing to identify hundreds of pro-growth enhancers across major cancer types. We seek to expand the usage of this unbaised functional perturbation assay to uncover functional enhancers crucial for different physiological phenotypes.
 
