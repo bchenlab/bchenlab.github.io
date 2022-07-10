@@ -11,9 +11,11 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;Genome Institute of Singapore<br>
 &nbsp;&nbsp;&nbsp;A*STAR<br>
 
-<img alt="Samantha Chang, MS" align="left" src="/assets/img/Sam_2022.png" width="180" height="160"/>
+<br><br><br>
 
-&nbsp;&nbsp;&nbsp;<b>Samantha Chang</b><br>
+<img alt="Samantha Chang, MS" align="left" src="/assets/img/Sam_2022.jpg" width="180" height="160"/>
+
+&nbsp;&nbsp;&nbsp;<b>Samantha Chang, MS</b><br>
 &nbsp;&nbsp;&nbsp;Research officer<br>
 &nbsp;&nbsp;&nbsp;Genome Institute of Singapore<br>
 &nbsp;&nbsp;&nbsp;A*STAR<br>
