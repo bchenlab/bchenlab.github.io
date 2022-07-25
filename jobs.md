@@ -10,6 +10,6 @@ This research group will start at [Genome Institute of Singapore](https://www.a-
 - [Research officer](https://careers.a-star.edu.sg/JobDetails.aspx?ID=jljc0PepikUCHh1JmCzzMA%3d%3d)
 - Postdoctoral fellow
 
-For more information about this research group, please contact [Benson Chen](mailto:b5chen@health.ucsd.edu)
+For more information about this research group, please contact [Benson Chen](mailto:benson_chen@gis.a-star.edu.sg)
 
 ![Image of bay](/assets/img/marina_bay2.png)
