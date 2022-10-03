@@ -24,6 +24,6 @@ cover-img: /assets/img/Team.png
 
 
 &nbsp;&nbsp;&nbsp;<b>Alumni</b><br>
-&nbsp;&nbsp;&nbsp;Rebekah Chan / Undergraduate student / Imperial College London <br>
+&nbsp;&nbsp;&nbsp;Rebekah Chan / Undergraduate student / Imperial College London (Sep 2022)<br>
 
 <br><br><br>
