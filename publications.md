@@ -7,11 +7,11 @@ cover-img: /assets/img/Books.png
 
 For a full list see: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Poshen+B%22%5BAuthor%5D) or [Google scholar](https://scholar.google.com/citations?hl=en&tzom=420&user=SI56lVsAAAAJ)
 
-### Preprint
+### 2022
 
-[Discovery and functional characterization of Pro-growth enhancers in human cancer cells.](https://www.biorxiv.org/content/10.1101/2021.02.04.429675v1)
-Chen PB, Fiaux PC, Li B, Zhang K, Kubo N, Jiang S, Hu R, Wu S, Wang M, Wang W, McVicker G, Mischel PS, Ren B.
-bioRxiv, 2021 February 05.
+[Systematic discovery and functional dissection of enhancers needed for cancer cell fitness and proliferation.](https://www.sciencedirect.com/science/article/pii/S2211124722015017)
+Chen PB, Fiaux PC, Li B, Zhang K, Kubo N, Jiang S, Hu R, Rooholfada E, Wu S, Wang M, Wang W, McVicker G, Mischel PS, Ren B.
+Cell Rep., 2022 Nov 8;41(6):111630.
 
 ### 2021
  
