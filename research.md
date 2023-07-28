@@ -8,7 +8,7 @@ We develop and utilize high-throughput functional assays to understand how gene 
 1. How does the human genome respond to environmental stimuli?
 2. How does the dysbiosis in the gut microbiome lead to the development of non-alcoholic fatty liver disease?
 
-<img alt="Overview" align="center" src="/assets/img/overview2023.png" width="900" height="700"/>
+<img alt="Overview" align="center" src="/assets/img/overview2023.png" width="700" height="400"/>
 
 
 
