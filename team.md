@@ -13,15 +13,6 @@ cover-img: /assets/img/Team.png
 
 <br><br><br>
 
-<img alt="Jen Goh, PhD" align="left" src="/assets/img/Jen_C1.png" width="180" height="160"/>
-
-&nbsp;&nbsp;&nbsp;<b>Jen Goh, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Postdoctoral fellow<br>
-&nbsp;&nbsp;&nbsp;Genome Institute of Singapore<br>
-&nbsp;&nbsp;&nbsp;A*STAR<br>
-
-<br><br><br>
-
 <img alt="Samantha Chang, MS" align="left" src="/assets/img/Sam_C1.png" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Samantha Chang, MS</b><br>
@@ -33,7 +24,11 @@ cover-img: /assets/img/Team.png
 
 
 &nbsp;&nbsp;&nbsp;<b>Alumni</b><br>
-&nbsp;&nbsp;&nbsp;Myat Maung & Vanessa Wong / High school student / NUSHigh (Nov 2022)<br>
-&nbsp;&nbsp;&nbsp;Rebekah Chan / Undergraduate student / Imperial College London (Sep 2022)<br>
+&nbsp;&nbsp;&nbsp;2023<br>
+&nbsp;&nbsp;&nbsp;Katie Kathiresan & Sarah Lim / The University of British Columbia (May-Sep 2023) supported by SIPGA<br>
+&nbsp;&nbsp;&nbsp;Shabnam Shajahan / Kumaraguru College of Technology (Apr-Jun 2023) supported by SIPGA<br>
+&nbsp;&nbsp;&nbsp;2022<br>
+&nbsp;&nbsp;&nbsp;Myat Maung & Vanessa Wong / NUSHigh (Nov-Dec 2022)<br>
+&nbsp;&nbsp;&nbsp;Rebekah Chan / Imperial College London (Jul-Sep 2022)<br>
 
 <br><br><br>
