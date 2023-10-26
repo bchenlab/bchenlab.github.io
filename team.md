@@ -25,8 +25,10 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Alumni</b><br>
 &nbsp;&nbsp;&nbsp;2023<br>
-&nbsp;&nbsp;&nbsp;Katie Kathiresan & Sarah Lim / The University of British Columbia (May-Sep 2023) supported by SIPGA<br>
-&nbsp;&nbsp;&nbsp;Shabnam Shajahan / Kumaraguru College of Technology (Apr-Jun 2023) supported by SIPGA<br>
+&nbsp;&nbsp;&nbsp;Katie Kathiresan & Sarah Lim / The University of British Columbia (May-Sep 2023)<br>
+&nbsp;&nbsp;&nbsp;supported by SIPGA<br>
+&nbsp;&nbsp;&nbsp;Shabnam Shajahan / Kumaraguru College of Technology (Apr-Jun 2023)<br>
+&nbsp;&nbsp;&nbsp;supported by SIPGA<br>
 &nbsp;&nbsp;&nbsp;2022<br>
 &nbsp;&nbsp;&nbsp;Myat Maung & Vanessa Wong / NUSHigh (Nov-Dec 2022)<br>
 &nbsp;&nbsp;&nbsp;Rebekah Chan / Imperial College London (Jul-Sep 2022)<br>
