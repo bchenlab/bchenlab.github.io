@@ -7,6 +7,11 @@ cover-img: /assets/img/Books.png
 
 For a full list see: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Poshen+B%22%5BAuthor%5D) or [Google scholar](https://scholar.google.com/citations?hl=en&tzom=420&user=SI56lVsAAAAJ)
 
+### 2024
+[H3K4me1 facilitates promoter-enhancer interactions and gene activation during embryonic stem cell differentiation.](https://www.sciencedirect.com/science/article/pii/S1097276524001710?via%3Dihub)
+Kubo N, Chen PB, Hu R, Ye Z, Sasaki H, Ren B.
+Mol Cell., 2024 Mar 15:S1097-2765(24)00171-0.
+
 ### 2022
 
 [Systematic discovery and functional dissection of enhancers needed for cancer cell fitness and proliferation.](https://www.sciencedirect.com/science/article/pii/S2211124722015017)
