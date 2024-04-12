@@ -12,6 +12,10 @@ For a full list see: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Posh
 Kubo N, Chen PB, Hu R, Ye Z, Sasaki H, Ren B.
 Mol Cell., 2024 Mar 15:S1097-2765(24)00171-0.
 
+[RUNX1 C-terminal mutations impair blood cell differentiation by perturbing specific enhancer-promoter networks.](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2023011484/515383/RUNX1-C-terminal-Mutations-Impair-Blood-Cell)
+Jayne ND, Liang Z, Lim DH, Chen PB, Diaz C, Arimoto KI, Xia L, Liu M, Ren B, Fu XD, Zhang DE.
+Blood Adv., 2024 Mar 21:bloodadvances.2023011484.
+
 ### 2022
 
 [Systematic discovery and functional dissection of enhancers needed for cancer cell fitness and proliferation.](https://www.sciencedirect.com/science/article/pii/S2211124722015017)
