@@ -43,6 +43,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Chadmirah Zaratiana</b><br>
 &nbsp;&nbsp;&nbsp;Intern student<br>
+&nbsp;&nbsp;&nbsp;supported by SIPGA<br>
 &nbsp;&nbsp;&nbsp;Paris-East Créteil University<br>
 
 <br><br><br>
@@ -51,6 +52,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Tiffany Liu</b><br>
 &nbsp;&nbsp;&nbsp;Intern student<br>
+&nbsp;&nbsp;&nbsp;supported by ARIA<br>
 &nbsp;&nbsp;&nbsp;Nanyang Technological University<br>
 
 <br><br><br>
