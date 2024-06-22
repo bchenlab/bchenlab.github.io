@@ -65,9 +65,9 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Alumni</b><br>
 &nbsp;&nbsp;&nbsp;2024<br>
-&nbsp;&nbsp;&nbsp; Kristen Kee (Intern student:Jan- May 2024); currently NUS Medicine<br>
-&nbsp;&nbsp;&nbsp;Samantha Chang (Research officer:May 2022- Feb 2024); currently NUH<br>
-&nbsp;&nbsp;&nbsp;Yoanna Yong (Intern student:Jun 2023- Jan 2024); currently NUS Medicine<br>
+&nbsp;&nbsp;&nbsp; Kristen Kee (Intern student:Jan- May 2024); NUS Medicine<br>
+&nbsp;&nbsp;&nbsp;Samantha Chang (Research officer:May 2022- Feb 2024); NUH<br>
+&nbsp;&nbsp;&nbsp;Yoanna Yong (Intern student:Jun 2023- Jan 2024); NUS Medicine<br>
 &nbsp;&nbsp;&nbsp;2023<br>
 &nbsp;&nbsp;&nbsp;Katie Kathiresan & Sarah Lim / The University of British Columbia (May-Sep 2023)<br>
 &nbsp;&nbsp;&nbsp;supported by SIPGA<br>
