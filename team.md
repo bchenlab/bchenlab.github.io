@@ -39,7 +39,7 @@ cover-img: /assets/img/Team.png
 
 <br><br><br>
 
-<img alt="Chadmirah" align="left" src="/assets/img/Chadmirah.jpeg" width="180" height="160"/>
+<img alt="Chadmirah" align="left" src="/assets/img/Chadmirah.jpg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Chadmirah Zaratiana</b><br>
 &nbsp;&nbsp;&nbsp;Intern student<br>
@@ -55,7 +55,7 @@ cover-img: /assets/img/Team.png
 
 <br><br><br>
 
-<img alt="Jolin" align="left" src="/assets/img/Jolin.jpeg" width="180" height="160"/>
+<img alt="Jolin" align="left" src="/assets/img/Jolin.jpg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Jolin Tan</b><br>
 &nbsp;&nbsp;&nbsp;Intern student<br>
