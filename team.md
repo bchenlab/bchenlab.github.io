@@ -39,7 +39,7 @@ cover-img: /assets/img/Team.png
 
 <br><br><br>
 
-<img alt="Chadmirah" align="left" src="/assets/img/Chadmirah_1.png" width="180" height="160"/>
+<img alt="Chadmirah" align="left" src="/assets/img/Chadmirah.jpeg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Chadmirah Zaratiana</b><br>
 &nbsp;&nbsp;&nbsp;Intern student<br>
