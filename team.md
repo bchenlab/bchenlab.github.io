@@ -58,7 +58,7 @@ cover-img: /assets/img/Team.png
 <img alt="Jolin" align="left" src="/assets/img/Jolin.jpg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Jolin Tan</b><br>
-&nbsp;&nbsp;&nbsp;Intern student<br>
+&nbsp;&nbsp;&nbsp;Final year project student<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
 
 <br><br><br>
