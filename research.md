@@ -10,7 +10,7 @@ We develop and utilize high-throughput functional assays to understand how gene 
 2. How does the dysbiosis in the gut microbiome lead to the development of liver diseases?
 3. How does the gut microbiota affect colorectal cancer development?
 
-<img alt="Overview" align="center" src="/assets/img/overview2023.png" width="700" height="400"/>
+<img alt="Overview" align="center" src="/assets/img/overview2023.png" />
 
 
 
