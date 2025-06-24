@@ -8,8 +8,9 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Benson Chen, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Principal investigator<br>
-&nbsp;&nbsp;&nbsp;Benson is particularly enthusiastic about unravelling the mechanisms involved in diet-induced metabolic disorders and cancer<br>
-
+&nbsp;&nbsp;&nbsp;Benson is particularly enthusiastic about unravelling the<br>
+&nbsp;&nbsp;&nbsp;mechanisms involved in diet-induced metabolic disorders<br>
+&nbsp;&nbsp;&nbsp;and cancer<br>
 
 <br><br><br>
 
@@ -25,7 +26,8 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Siti Nuraisha Binte Norazmi</b><br>
 &nbsp;&nbsp;&nbsp;Research officer<br>
-&nbsp;&nbsp;&nbsp;Aisha is sutdying the interactions between gut microbiome and colorectal cancer<br>
+&nbsp;&nbsp;&nbsp;Aisha is sutdying the interactions between gut microbiome<br>
+&nbsp;&nbsp;&nbsp;and colorectal cancer<br>
 
 <br><br><br>
 
@@ -53,7 +55,8 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;SINGA PhD student<br>
 &nbsp;&nbsp;&nbsp;Yong Loo Lin School of Medicine<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
-&nbsp;&nbsp;&nbsp;Harshvint is studying the rols of gut microbiome in cardiovascular diseases<br>
+&nbsp;&nbsp;&nbsp;Harshvint is studying the rols of gut microbiome<br>
+&nbsp;&nbsp;&nbsp;in cardiovascular diseases<br>
 
 <br><br><br>
 
