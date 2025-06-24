@@ -4,75 +4,68 @@ title: Our group
 subtitle: 
 cover-img: /assets/img/Team.png
 ---
-<img alt="Benson" align="left" src="/assets/img/Benson3.png" width="200" height="180"/>
+<img alt="Benson" align="left" src="/assets/img/Benson3.png" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Benson Chen, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Principal investigator<br>
-
 &nbsp;&nbsp;&nbsp;Benson is particularly enthusiastic about unravelling the<br>
 &nbsp;&nbsp;&nbsp;mechanisms involved in diet-induced metabolic disorders<br>
 &nbsp;&nbsp;&nbsp;and cancer<br>
 
 <br><br><br>
 
-<img alt="Yiamunaa" align="left" src="/assets/img/YiamunaaM.jpg" width="200" height="180"/>
+<img alt="Yiamunaa" align="left" src="/assets/img/YiamunaaM.jpg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Yiamunaa M</b><br>
 &nbsp;&nbsp;&nbsp;Senior Research Officer<br>
-
 &nbsp;&nbsp;&nbsp;Yiamunaa is working a project to understand liver-gut axis<br>
 
 <br><br><br>
 
-<img alt="Aisha" align="left" src="/assets/img/Aisha.jpeg" width="200" height="180"/>
+<img alt="Aisha" align="left" src="/assets/img/Aisha.jpeg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Siti Nuraisha Binte Norazmi</b><br>
 &nbsp;&nbsp;&nbsp;Research officer<br>
-
 &nbsp;&nbsp;&nbsp;Aisha is sutdying the interactions between gut microbiome<br>
 &nbsp;&nbsp;&nbsp;and colorectal cancer<br>
 
 <br><br><br>
 
-<img alt="Crystal" align="left" src="/assets/img/Crystal_1.png" width="200" height="180"/>
+<img alt="Crystal" align="left" src="/assets/img/Crystal_1.png" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Crystal Low</b><br>
 &nbsp;&nbsp;&nbsp;Joint Research officer with Meatiply<br>
-
 &nbsp;&nbsp;&nbsp;Crystal is developing CRISPR-based functional screens<br>
 
 <br><br><br>
 
-<img alt="Shaun" align="left" src="/assets/img/Shaun_Tan.jpg" width="200" height="180"/>
+<img alt="Shaun" align="left" src="/assets/img/Shaun_Tan.jpg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Shaun Tan</b><br>
 &nbsp;&nbsp;&nbsp;Joint PhD student<br>
 &nbsp;&nbsp;&nbsp;Lee Kong Chian School of Medicine<br>
 &nbsp;&nbsp;&nbsp;Nanyang Technological University<br>
-
 &nbsp;&nbsp;&nbsp;Shaun is developing new delivery system for gut microbiome<br>
 
 <br><br><br>
 
-<img alt="Harshvint" align="left" src="/assets/img/Harshvint.jpeg" width="200" height="180"/>
+<img alt="Harshvint" align="left" src="/assets/img/Harshvint.jpeg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Harshvint Ravichandran</b><br>
 &nbsp;&nbsp;&nbsp;SINGA PhD student<br>
 &nbsp;&nbsp;&nbsp;Yong Loo Lin School of Medicine<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
-
 &nbsp;&nbsp;&nbsp;Harshvint is studying the rols of gut microbiome<br>
 &nbsp;&nbsp;&nbsp;in cardiovascular diseases<br>
 
 <br><br><br>
 
-<img alt="Jeremy" align="left" src="/assets/img/Jeremy.jpeg" width="200" height="180"/>
+<img alt="Jeremy" align="left" src="/assets/img/Jeremy.jpeg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Jeremy Chen</b><br>
 &nbsp;&nbsp;&nbsp;Undergraduate student<br>
 &nbsp;&nbsp;&nbsp;Department of Biomedical Enginnering<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
-
 &nbsp;&nbsp;&nbsp;Jeremy is developing new toolkit for microbiome research<br>
 
 
