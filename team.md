@@ -23,7 +23,7 @@ cover-img: /assets/img/Team.png
 
 <br><br><br>
 
-<img alt="Aisha" align="left" src="/assets/img/Aisha.png" width="180" height="160"/>
+<img alt="Aisha" align="left" src="/assets/img/Aisha.jpeg" width="180" height="160"/>
 
 &nbsp;&nbsp;&nbsp;<b>Siti Nuraisha Binte Norazmi</b><br>
 &nbsp;&nbsp;&nbsp;Research officer<br>
