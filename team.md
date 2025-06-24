@@ -8,6 +8,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Benson Chen, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Principal investigator<br>
+
 &nbsp;&nbsp;&nbsp;Benson is particularly enthusiastic about unravelling the<br>
 &nbsp;&nbsp;&nbsp;mechanisms involved in diet-induced metabolic disorders<br>
 &nbsp;&nbsp;&nbsp;and cancer<br>
@@ -18,6 +19,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Yiamunaa M</b><br>
 &nbsp;&nbsp;&nbsp;Senior Research Officer<br>
+
 &nbsp;&nbsp;&nbsp;Yiamunaa is working a project to understand liver-gut axis<br>
 
 <br><br><br>
@@ -26,6 +28,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Siti Nuraisha Binte Norazmi</b><br>
 &nbsp;&nbsp;&nbsp;Research officer<br>
+
 &nbsp;&nbsp;&nbsp;Aisha is sutdying the interactions between gut microbiome<br>
 &nbsp;&nbsp;&nbsp;and colorectal cancer<br>
 
@@ -35,6 +38,7 @@ cover-img: /assets/img/Team.png
 
 &nbsp;&nbsp;&nbsp;<b>Crystal Low</b><br>
 &nbsp;&nbsp;&nbsp;Joint Research officer with Meatiply<br>
+
 &nbsp;&nbsp;&nbsp;Crystal is developing CRISPR-based functional screens<br>
 
 <br><br><br>
@@ -45,6 +49,7 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;Joint PhD student<br>
 &nbsp;&nbsp;&nbsp;Lee Kong Chian School of Medicine<br>
 &nbsp;&nbsp;&nbsp;Nanyang Technological University<br>
+
 &nbsp;&nbsp;&nbsp;Shaun is developing new delivery system for gut microbiome<br>
 
 <br><br><br>
@@ -55,6 +60,7 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;SINGA PhD student<br>
 &nbsp;&nbsp;&nbsp;Yong Loo Lin School of Medicine<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
+
 &nbsp;&nbsp;&nbsp;Harshvint is studying the rols of gut microbiome<br>
 &nbsp;&nbsp;&nbsp;in cardiovascular diseases<br>
 
@@ -66,6 +72,7 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;Undergraduate student<br>
 &nbsp;&nbsp;&nbsp;Department of Biomedical Enginnering<br>
 &nbsp;&nbsp;&nbsp;National University of Singapore<br>
+
 &nbsp;&nbsp;&nbsp;Jeremy is developing new toolkit for microbiome research<br>
 
 
