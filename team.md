@@ -82,9 +82,9 @@ cover-img: /assets/img/Team.png
 &nbsp;&nbsp;&nbsp;2024<br>
 &nbsp;&nbsp;&nbsp;Tiffany Liu (ARIA student:May-Dec 2024)<br>
 &nbsp;&nbsp;&nbsp;Jolin Tan (FYP student:Aug 2023- Sep 2024)<br>
-&nbsp;&nbsp;&nbsp;Kristen Kee (Intern student:Jan- May 2024); NUS Medicine<br>
-&nbsp;&nbsp;&nbsp;Samantha Chang (Research officer:May 2022- Feb 2024); NUH<br>
-&nbsp;&nbsp;&nbsp;Yoanna Yong (Intern student:Jun 2023- Jan 2024); NUS Medicine<br>
+&nbsp;&nbsp;&nbsp;Kristen Kee (Intern student:Jan- May 2024); Current: NUS Medicine<br>
+&nbsp;&nbsp;&nbsp;Samantha Chang (Research officer:May 2022- Feb 2024); Current: NUH<br>
+&nbsp;&nbsp;&nbsp;Yoanna Yong (Intern student:Jun 2023- Jan 2024); Current: NUS Medicine<br>
 &nbsp;&nbsp;&nbsp;2023<br>
 &nbsp;&nbsp;&nbsp;Sarah Lim (SIPGA student:May- Sep 2023)<br>
 &nbsp;&nbsp;&nbsp;Katie Kathiresan (SIPGA student:May-Sep 2023)<br>
