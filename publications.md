@@ -7,6 +7,13 @@ cover-img: /assets/img/Books.png
 
 For a full list see: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Poshen+B%22%5BAuthor%5D) or [Google scholar](https://scholar.google.com/citations?hl=en&tzom=420&user=SI56lVsAAAAJ)
 
+
+### 2026
+[Gut microbiota modulation of regulatory DNA elements revealed by massively parallel functional characterization.]
+(https://www.sciencedirect.com/science/article/pii/S1097276526002327)
+Zaratiana C, M Y, Lee YA, Ong ABL, Liu TZY, Low SMC, Chang SMS, Tan S, Mustafa DNA, Ganesh A, Chang X, Koh XQ, Tay SH, Lee WJJ, Yuan JM, Khor CC, Koh WP, Dorajoo R, Li YE, Kasahara K, Wuestefeld T, Chen PB.
+Mol Cell., 2026 May 7;86(9): 1708-1722.e9.
+
 ### 2024
 [H3K4me1 facilitates promoter-enhancer interactions and gene activation during embryonic stem cell differentiation.](https://www.sciencedirect.com/science/article/pii/S1097276524001710?via%3Dihub)
 Kubo N, Chen PB, Hu R, Ye Z, Sasaki H, Ren B.
