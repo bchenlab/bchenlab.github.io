@@ -9,8 +9,7 @@ For a full list see: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen+Posh
 
 
 ### 2026
-[Gut microbiota modulation of regulatory DNA elements revealed by massively parallel functional characterization.]
-(https://www.sciencedirect.com/science/article/pii/S1097276526002327)
+[Gut microbiota modulation of regulatory DNA elements revealed by massively parallel functional characterization.](https://www.sciencedirect.com/science/article/pii/S1097276526002327)
 Zaratiana C, M Y, Lee YA, Ong ABL, Liu TZY, Low SMC, Chang SMS, Tan S, Mustafa DNA, Ganesh A, Chang X, Koh XQ, Tay SH, Lee WJJ, Yuan JM, Khor CC, Koh WP, Dorajoo R, Li YE, Kasahara K, Wuestefeld T, Chen PB.
 Mol Cell., 2026 May 7;86(9): 1708-1722.e9.
 
